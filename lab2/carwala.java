@@ -1,7 +1,5 @@
 package lab2;
 
-
-
 class Car {
     String brand;
     String model;
